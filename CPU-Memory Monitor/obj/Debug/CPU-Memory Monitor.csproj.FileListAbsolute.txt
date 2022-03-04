@@ -1,0 +1,14 @@
+c:\users\username\Desktop\CPU-Memory Monitor\CPU-Memory Monitor\bin\Debug\CPU-Memory Monitor.exe.config
+c:\users\username\Desktop\CPU-Memory Monitor\CPU-Memory Monitor\bin\Debug\CPU-Memory Monitor.exe
+c:\users\username\Desktop\CPU-Memory Monitor\CPU-Memory Monitor\bin\Debug\CPU-Memory Monitor.pdb
+c:\users\username\Desktop\CPU-Memory Monitor\CPU-Memory Monitor\obj\Debug\CPU-Memory Monitor.csprojAssemblyReference.cache
+c:\users\username\Desktop\CPU-Memory Monitor\CPU-Memory Monitor\obj\Debug\CPU_Memory_Monitor.Form1.resources
+c:\users\username\Desktop\CPU-Memory Monitor\CPU-Memory Monitor\obj\Debug\CPU_Memory_Monitor.Properties.Resources.resources
+c:\users\username\Desktop\CPU-Memory Monitor\CPU-Memory Monitor\obj\Debug\CPU-Memory Monitor.csproj.GenerateResource.cache
+c:\users\username\Desktop\CPU-Memory Monitor\CPU-Memory Monitor\obj\Debug\CPU-Memory Monitor.csproj.CoreCompileInputs.cache
+c:\users\username\Desktop\CPU-Memory Monitor\CPU-Memory Monitor\obj\Debug\CPU-Memory Monitor.exe
+c:\users\username\Desktop\CPU-Memory Monitor\CPU-Memory Monitor\obj\Debug\CPU-Memory Monitor.pdb
+c:\users\username\Desktop\CPU-Memory Monitor\CPU-Memory Monitor\bin\Debug\CPU-Memory Monitor.exe.manifest
+c:\users\username\Desktop\CPU-Memory Monitor\CPU-Memory Monitor\bin\Debug\CPU-Memory Monitor.application
+c:\users\username\Desktop\CPU-Memory Monitor\CPU-Memory Monitor\obj\Debug\CPU-Memory Monitor.exe.manifest
+c:\users\username\Desktop\CPU-Memory Monitor\CPU-Memory Monitor\obj\Debug\CPU-Memory Monitor.application
